@@ -90,3 +90,6 @@ https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/nt_
 https://github.com/firehol/blocklist-ipsets/blob/master/firehol_webserver.netset
 https://raw.githubusercontent.com/moimran/blacklist-IP/refs/heads/master/Database/files/zeus.ipset
 https://raw.githubusercontent.com/moimran/blacklist-IP/refs/heads/master/Database/files/zeus_badips.ipset
+https://raw.githubusercontent.com/moimran/blacklist-IP/refs/heads/master/Database/files/proxyspy.ipset
+https://raw.githubusercontent.com/moimran/blacklist-IP/refs/heads/master/Database/files/proxyspy_7d.ipset
+https://raw.githubusercontent.com/moimran/blacklist-IP/refs/heads/master/Database/files/proxyspy_30d.ipset
