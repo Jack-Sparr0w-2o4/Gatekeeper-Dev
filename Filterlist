@@ -88,3 +88,5 @@ https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/nt_
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/nt_malware_irc.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/nt_malware_dns.ipset
 https://github.com/firehol/blocklist-ipsets/blob/master/firehol_webserver.netset
+https://raw.githubusercontent.com/moimran/blacklist-IP/refs/heads/master/Database/files/zeus.ipset
+https://raw.githubusercontent.com/moimran/blacklist-IP/refs/heads/master/Database/files/zeus_badips.ipset
