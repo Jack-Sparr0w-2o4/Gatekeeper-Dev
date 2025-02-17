@@ -106,3 +106,5 @@ https://raw.githubusercontent.com/LittleJake/ip-blacklist/refs/heads/main/neucer
 https://raw.githubusercontent.com/LittleJake/ip-blacklist/refs/heads/main/ustc_blacklist_ip.txt
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/darklist_de.netset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/pushing_inertia_blocklist.netset
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/firehol_abusers_1d.netset
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/firehol_abusers_30d.netset
