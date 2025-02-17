@@ -108,3 +108,6 @@ https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/dar
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/pushing_inertia_blocklist.netset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/firehol_abusers_1d.netset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/firehol_abusers_30d.netset
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/iblocklist_isp_sprint.netset
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/iblocklist_isp_att.netset
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/datacenters.netset
