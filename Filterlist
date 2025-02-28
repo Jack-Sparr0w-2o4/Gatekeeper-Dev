@@ -110,4 +110,5 @@ https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/ibl
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/haley_ssh.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/cleanmx_phishing.ipset
 https://raw.githubusercontent.com/tigthor/NSA-CIA-Blocklist/refs/heads/main/HOSTS/Super%20Ranges.txt
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/firehol_level4.netset
 https://blacklist.3coresec.net/lists/all.txt
