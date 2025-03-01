@@ -125,4 +125,5 @@ https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/nt_
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/malwaredomainlist.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/nullsecure.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/iblocklist_yoyo_adservers.netset
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/voipbl.netset
 https://blacklist.3coresec.net/lists/all.txt
