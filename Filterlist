@@ -123,4 +123,6 @@ https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/nor
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/normshield_all_ddosbot.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/nt_ssh_7d.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/malwaredomainlist.ipset
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/nullsecure.ipset
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/iblocklist_yoyo_adservers.netset
 https://blacklist.3coresec.net/lists/all.txt
