@@ -133,4 +133,15 @@ https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/blo
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/blocklist_de_mail.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/blocklist_de_bots.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/bruteforceblocker.ipset
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/taichung.ipset
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/turris_greylist.ipset
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/urandomusto_http.ipset
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/urandomusto_dns.ipset
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/urandomusto_vnc.ipset
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/urandomusto_ntp.ipset
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/urandomusto_ssh.ipset
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/urandomusto_telnet.ipset
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/urandomusto_unspecified.ipset
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/urandomusto_smb.ipset
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/urandomusto_rdp.ipset
 https://blacklist.3coresec.net/lists/all.txt
