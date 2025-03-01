@@ -124,6 +124,12 @@ https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/nor
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/nt_ssh_7d.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/malwaredomainlist.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/nullsecure.ipset
-https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/iblocklist_yoyo_adservers.netset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/voipbl.netset
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/blocklist_de.ipset
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/blocklist_de_ssh.ipset
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/blocklist_de_sip.ipset
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/blocklist_de_bruteforce.ipset
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/blocklist_de_imap.ipset
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/blocklist_de_mail.ipset
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/blocklist_de_bots.ipset
 https://blacklist.3coresec.net/lists/all.txt
