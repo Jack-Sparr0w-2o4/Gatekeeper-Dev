@@ -133,7 +133,6 @@ https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/blo
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/blocklist_de_mail.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/blocklist_de_bots.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/bruteforceblocker.ipset
-https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/taichung.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/turris_greylist.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/urandomusto_http.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/urandomusto_dns.ipset
