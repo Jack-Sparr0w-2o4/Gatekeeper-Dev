@@ -144,4 +144,13 @@ https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/ura
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/urandomusto_smb.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/urandomusto_rdp.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/threatcrowd.ipset
+https://lists.blocklist.de/lists/ftp.txt
+https://lists.blocklist.de/lists/imap.txt
+https://lists.blocklist.de/lists/mail.txt
+https://lists.blocklist.de/lists/sip.txt
+https://lists.blocklist.de/lists/ssh.txt
+https://lists.blocklist.de/lists/bruteforcelogin.txt
+https://lists.blocklist.de/lists/bots.txt
+https://lists.blocklist.de/lists/apache.txt
+https://iplists.firehol.org/files/gofferje_sip.netset
 https://blacklist.3coresec.net/lists/all.txt
