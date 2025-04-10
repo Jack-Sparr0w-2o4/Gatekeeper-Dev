@@ -1,1 +1,1 @@
-Personal list that my have frequent Updates
+Personal list that will have frequent Updates
