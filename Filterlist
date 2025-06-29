@@ -148,6 +148,7 @@ https://iplists.firehol.org/files/urandomusto_ntp.ipset
 https://iplists.firehol.org/files/urandomusto_malware.ipset
 https://iplists.firehol.org/files/urandomusto_mailer.ipset
 https://iplists.firehol.org/files/urandomusto_http.ipset
+https://iplists.firehol.org/files/malwaredomainlist.ipset
 https://iplists.firehol.org/files/voipbl.netset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/botvrij_dst.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/iblocklist_abuse_spyeye.netset
