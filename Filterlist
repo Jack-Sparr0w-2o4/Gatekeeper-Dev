@@ -158,6 +158,7 @@ https://iplists.firehol.org/files/normshield_all_dnsscan.ipset
 https://iplists.firehol.org/files/normshield_all_webscan.ipset
 https://iplists.firehol.org/files/normshield_all_wormscan.ipset
 https://iplists.firehol.org/files/normshield_all_suspicious.ipset
+https://iplists.firehol.org/files/haley_ssh.ipset
 https://iplists.firehol.org/files/voipbl.netset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/botvrij_dst.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/iblocklist_abuse_spyeye.netset
