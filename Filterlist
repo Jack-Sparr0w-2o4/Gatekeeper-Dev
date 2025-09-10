@@ -137,3 +137,16 @@ https://iplists.firehol.org/files/bbcan177_ms1.netset
 https://iplists.firehol.org/files/bbcan177_ms3.netset
 https://iplists.firehol.org/files/snort_ipfilter.ipset
 https://iplists.firehol.org/files/sslbl.ipset
+https://iplists.firehol.org/files/urandomusto_dns.ipset
+https://iplists.firehol.org/files/urandomusto_ftp.ipset
+https://iplists.firehol.org/files/urandomusto_vnc.ipset
+https://iplists.firehol.org/files/urandomusto_unspecified.ipset
+https://iplists.firehol.org/files/urandomusto_telnet.ipset
+https://iplists.firehol.org/files/urandomusto_ssh.ipset
+https://iplists.firehol.org/files/urandomusto_spam.ipset
+https://iplists.firehol.org/files/urandomusto_smb.ipset
+https://iplists.firehol.org/files/urandomusto_rdp.ipset
+https://iplists.firehol.org/files/urandomusto_ntp.ipset
+https://iplists.firehol.org/files/urandomusto_malware.ipset
+https://iplists.firehol.org/files/urandomusto_mailer.ipset
+https://iplists.firehol.org/files/urandomusto_http.ipset
