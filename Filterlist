@@ -173,6 +173,3 @@ https://raw.githubusercontent.com/CriticalPathSecurity/Public-Intelligence-Feeds
 https://raw.githubusercontent.com/CriticalPathSecurity/Public-Intelligence-Feeds/refs/heads/master/cps-collected-iocs.txt
 https://raw.githubusercontent.com/CriticalPathSecurity/Public-Intelligence-Feeds/refs/heads/master/rutgers.txt
 https://raw.githubusercontent.com/CriticalPathSecurity/Public-Intelligence-Feeds/refs/heads/master/drb-ra-verified.txt
-https://iplists.firehol.org/files/iblocklist_abuse_zeus.netset
-https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/iblocklist_abuse_spyeye.netset
-https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/iblocklist_abuse_palevo.netset
