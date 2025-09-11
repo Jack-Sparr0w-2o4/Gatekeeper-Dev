@@ -162,7 +162,6 @@ https://iplists.firehol.org/files/voipbl.netset
 https://raw.githubusercontent.com/CriticalPathSecurity/Public-Intelligence-Feeds/refs/heads/master/sip.txt
 https://raw.githubusercontent.com/CriticalPathSecurity/Public-Intelligence-Feeds/refs/heads/master/compromised-ips.txt
 https://raw.githubusercontent.com/CriticalPathSecurity/Public-Intelligence-Feeds/refs/heads/master/cloudzy.txt
-https://gist.githubusercontent.com/BBcan177/d7105c242f17f4498f81/raw
 https://raw.githubusercontent.com/BBcan177/minerchk/master/ip-only.txt
 https://raw.githubusercontent.com/CriticalPathSecurity/Public-Intelligence-Feeds/refs/heads/master/cps_cobaltstrike_ip.txt
 https://raw.githubusercontent.com/CriticalPathSecurity/Public-Intelligence-Feeds/refs/heads/master/cobaltstrike_ips.txt
@@ -185,4 +184,5 @@ https://raw.githubusercontent.com/duggytuxy/Data-Shield_IPv4_Blocklist/refs/head
 https://raw.githubusercontent.com/duggytuxy/Data-Shield_IPv4_Blocklist/refs/heads/main/prod_data-shield_ipv4_blocklist.txt
 https://raw.githubusercontent.com/LittleJake/ip-blacklist/refs/heads/main/all_blacklist.txt
 https://raw.githubusercontent.com/LittleJake/ip-blacklist/refs/heads/main/ustc_blacklist_ip.txt
+https://gist.githubusercontent.com/BBcan177/d7105c242f17f4498f81/raw
 https://voipbl.org/update
