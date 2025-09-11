@@ -173,7 +173,6 @@ https://iplists.firehol.org/files/xforce_bccs.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/botvrij_dst.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/iblocklist_abuse_spyeye.netset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/iblocklist_abuse_palevo.netset
-https://raw.githubusercontent.com/Jack-Sparr0w-2o4/Ramit-Clean/refs/heads/main/Ramit
 https://raw.githubusercontent.com/Jack-Sparr0w-2o4/Asus-Router-Fix/refs/heads/main/Filter
 https://raw.githubusercontent.com/ehindiayleau/BlacklistMIL-pfBlockerNG/refs/heads/master/blacklistmil_pfblockerng.txt
 https://raw.githubusercontent.com/Naunter/BT_BlockLists/refs/heads/master/list_1.txt
@@ -184,5 +183,6 @@ https://raw.githubusercontent.com/duggytuxy/Data-Shield_IPv4_Blocklist/refs/head
 https://raw.githubusercontent.com/duggytuxy/Data-Shield_IPv4_Blocklist/refs/heads/main/prod_data-shield_ipv4_blocklist.txt
 https://raw.githubusercontent.com/LittleJake/ip-blacklist/refs/heads/main/all_blacklist.txt
 https://raw.githubusercontent.com/LittleJake/ip-blacklist/refs/heads/main/ustc_blacklist_ip.txt
+https://raw.githubusercontent.com/Jack-Sparr0w-2o4/Ramit-Clean/refs/heads/main/Ramit
 https://gist.githubusercontent.com/BBcan177/d7105c242f17f4498f81/raw
 https://voipbl.org/update
