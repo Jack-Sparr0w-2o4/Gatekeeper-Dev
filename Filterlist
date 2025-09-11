@@ -149,3 +149,14 @@ https://iplists.firehol.org/files/urandomusto_ntp.ipset
 https://iplists.firehol.org/files/urandomusto_malware.ipset
 https://iplists.firehol.org/files/urandomusto_mailer.ipset
 https://iplists.firehol.org/files/urandomusto_http.ipset
+https://iplists.firehol.org/files/malwaredomainlist.ipset
+https://iplists.firehol.org/files/threatcrowd.ipset
+https://iplists.firehol.org/files/nullsecure.ipset
+https://iplists.firehol.org/files/nt_ssh_7d.ipset
+https://iplists.firehol.org/files/normshield_all_ddosbot.ipset
+https://iplists.firehol.org/files/normshield_all_bruteforce.ipset
+https://iplists.firehol.org/files/normshield_all_dnsscan.ipset
+https://iplists.firehol.org/files/normshield_all_webscan.ipset
+https://iplists.firehol.org/files/normshield_all_wormscan.ipset
+https://iplists.firehol.org/files/normshield_all_suspicious.ipset
+https://iplists.firehol.org/files/haley_ssh.ipset
