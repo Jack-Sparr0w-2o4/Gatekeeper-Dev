@@ -131,3 +131,4 @@ https://iplists.firehol.org/files/nt_malware_http.ipset
 https://iplists.firehol.org/files/nt_malware_irc.ipset
 https://iplists.firehol.org/files/nt_malware_dns.ipset
 https://iplists.firehol.org/files/bruteforceblocker.ipset
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/firehol_level4.netset
