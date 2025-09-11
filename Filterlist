@@ -131,10 +131,4 @@ https://iplists.firehol.org/files/nt_malware_http.ipset
 https://iplists.firehol.org/files/nt_malware_irc.ipset
 https://iplists.firehol.org/files/nt_malware_dns.ipset
 https://iplists.firehol.org/files/bruteforceblocker.ipset
-https://raw.githubusercontent.com/Jack-Sparr0w-2o4/Jack-MOD-Firehol-Level-4/refs/heads/main/Filterlist
-https://raw.githubusercontent.com/duggytuxy/Data-Shield_IPv4_Blocklist/refs/heads/main/prod_aa_data-shield_ipv4_blocklist.txt
-https://raw.githubusercontent.com/duggytuxy/Data-Shield_IPv4_Blocklist/refs/heads/main/prod_ab_data-shield_ipv4_blocklist.txt
-https://raw.githubusercontent.com/duggytuxy/Data-Shield_IPv4_Blocklist/refs/heads/main/prod_ac_data-shield_ipv4_blocklist.txt
-https://raw.githubusercontent.com/duggytuxy/Data-Shield_IPv4_Blocklist/refs/heads/main/prod_data-shield_ipv4_blocklist.txt
-https://raw.githubusercontent.com/LittleJake/ip-blacklist/refs/heads/main/ustc_blacklist_ip.txt
 https://voipbl.org/update
