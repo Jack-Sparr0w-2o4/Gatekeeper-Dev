@@ -118,3 +118,16 @@ https://raw.githubusercontent.com/Jack-Sparr0w-2o4/cruzit-web-attacks/refs/heads
 https://raw.githubusercontent.com/Jack-Sparr0w-2o4/Shadow-Clean/refs/heads/main/Filter
 https://raw.githubusercontent.com/Jack-Sparr0w-2o4/Block-NSA-Hard/refs/heads/main/Filter
 https://raw.githubusercontent.com/Jack-Sparr0w-2o4/CIA-Super-Range/refs/heads/main/Filter
+https://iplists.firehol.org/files/uscert_hidden_cobra.ipset
+https://iplists.firehol.org/files/talosintel_ipfilter.ipset
+https://iplists.firehol.org/files/cleanmx_viruses.ipset
+https://iplists.firehol.org/files/cleanmx_phishing.ipset
+https://iplists.firehol.org/files/turris_greylist.ipset
+https://iplists.firehol.org/files/nt_malware_http.ipset
+https://iplists.firehol.org/files/nt_malware_irc.ipset
+https://iplists.firehol.org/files/nt_malware_dns.ipset
+https://iplists.firehol.org/files/bruteforceblocker.ipset
+https://iplists.firehol.org/files/bbcan177_ms1.netset
+https://iplists.firehol.org/files/bbcan177_ms3.netset
+https://iplists.firehol.org/files/snort_ipfilter.ipset
+https://iplists.firehol.org/files/sslbl.ipset
