@@ -176,5 +176,9 @@ https://raw.githubusercontent.com/Naunter/BT_BlockLists/refs/heads/master/list_1
 https://raw.githubusercontent.com/CriticalPathSecurity/Public-Intelligence-Feeds/refs/heads/master/cps-collected-iocs.txt
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/iblocklist_abuse_spyeye.netset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/iblocklist_abuse_palevo.netset
+https://iplists.firehol.org/files/gofferje_sip.netset
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/firehol_abusers_1d.netset
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/firehol_abusers_30d.netset
+https://raw.githubusercontent.com/CriticalPathSecurity/Public-Intelligence-Feeds/refs/heads/master/illuminate.txt
 https://iplists.firehol.org/files/haley_ssh.ipset
 https://voipbl.org/update
