@@ -190,5 +190,6 @@ https://api.greynoise.io/v3/tags/4454bcc7-d416-4bc9-8e85-e860c82369c2/ips?format
 https://api.greynoise.io/v3/tags/f620e81c-eaf4-477f-8bc4-ec94ca672615/ips?format=txt&token=iCo1cIG0SvyJdkEozInOA
 https://api.greynoise.io/v3/tags/537cee16-c4a9-45cd-baf1-75963ab7bdd2/ips?format=txt&token=QWjWOA80SqqYzwKWVB8Q
 https://raw.githubusercontent.com/CriticalPathSecurity/Public-Intelligence-Feeds/refs/heads/master/cps-collected-iocs.txt
+https://iplists.firehol.org/files/gofferje_sip.netset
 https://raw.githubusercontent.com/Jack-Sparr0w-2o4/Worst-Game-Trackers/refs/heads/main/Filterlist
 https://voipbl.org/update
