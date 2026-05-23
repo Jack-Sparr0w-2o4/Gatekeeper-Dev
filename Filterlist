@@ -52,7 +52,7 @@ https://raw.githubusercontent.com/HotCakeX/Official-IANA-IP-blocks/refs/heads/ma
 https://iplists.firehol.org/files/xroxy_7d.ipset
 https://iplists.firehol.org/files/cleantalk_updated_7d.ipset
 https://raw.githubusercontent.com/borestad/firehol-mirror/main/botscout.ipset
-https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/darklist_de.netset
+https://iplists.firehol.org/files/darklist_de.netset
 https://lists.blocklist.de/lists/strongips.txt
 https://www.blocklist.de/downloads/export-ips_all.txt
 https://www.opendbl.net/lists/bruteforce.list
@@ -194,7 +194,7 @@ https://raw.githubusercontent.com/angellarin-itsasap/sonicwall/refs/heads/main/c
 https://raw.githubusercontent.com/elliotwutingfeng/GlobalAntiScamOrg-blocklist/refs/heads/main/global-anti-scam-org-scam-ips.txt
 https://spydisec.com/medium_confidence_unlimited.txt
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/gpf_comics.ipset
-https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/cta_cryptowall.ipset
+https://iplists.firehol.org/files/cta_cryptowall.ipset
 https://raw.githubusercontent.com/Jack-Sparr0w-2o4/Fast-ASF-Canada/refs/heads/main/Filter
 https://raw.githubusercontent.com/Jack-Sparr0w-2o4/Worst-Game-Trackers/refs/heads/main/Filterlist
 https://raw.githubusercontent.com/Jack-Sparr0w-2o4/VR-CHAT-Hacking-Blocklist/refs/heads/main/Muffin
